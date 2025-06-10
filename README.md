@@ -143,9 +143,18 @@ All implementations share these fundamental capabilities:
 - Want accessibility-based automation without visual models
 - Building AI-powered testing or automation tools
 
+## Detailed Architecture Documentation
+
+For in-depth technical details about each implementation:
+
+- **[TypeScript/JavaScript Core Architecture](./readme-architecture-typescript.md)** - The original and most complete implementation
+- **[Go Language Binding Architecture](./readme-architecture-go.md)** - Go-specific patterns and RPC communication
+- **[Python Language Binding Architecture](./readme-architecture-python.md)** - Sync/async APIs and Python ecosystem integration  
+- **[MCP Server Architecture](./readme-architecture-mcp.md)** - AI/LLM integration and accessibility-first approach
+
 ## Getting Started
 
-Each implementation has its own setup process. See the individual `readme-architecture.md` files for detailed setup and usage instructions for each variant.
+Each implementation has its own setup process. See the individual architecture documentation files above for detailed setup and usage instructions for each variant.
 
 ## Cross-Implementation Considerations
 
