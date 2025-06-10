@@ -180,7 +180,5 @@ Different implementations may use slightly different browser versions. For consi
 
 This Playwright ecosystem provides comprehensive browser automation solutions across multiple programming languages and use cases. Choose the implementation that best fits your technology stack, use case, and team preferences. All implementations provide powerful, reliable browser automation capabilities backed by the same proven Playwright engine.
 
-  [![Screenshot of Updated Website](https://raw.githubusercontent.com/peak-flow/playwright-dee
-  p-dive/master/updated-website.png)](https://raw.githubusercontent.com/peak-flow/playwright-d
-  eep-dive/master/updated-website.png)
+  [![Screenshot of Updated Website](https://raw.githubusercontent.com/peak-flow/playwright-deep-dive/master/updated-website.png)](https://raw.githubusercontent.com/peak-flow/playwright-deep-dive/master/updated-website.png)
   
